@@ -7,7 +7,7 @@ import os
 from PIL import Image
 import io
 
-genai.configure(api_key="key daalo")
+genai.configure(api_key="AIzaSyA3v2I9NPIcZ9FTAa4jbMzNvTU0jwhh8sE")
 
 def use_model(instruction_tuning, image_bytes):
     model = genai.GenerativeModel("gemini-1.5-pro")

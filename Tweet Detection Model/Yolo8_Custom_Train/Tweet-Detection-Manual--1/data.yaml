@@ -1,0 +1,12 @@
+names:
+- Tweet-Comment_Box-
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: tweet-detection-manual-byuig
+  url: https://universe.roboflow.com/personal-stuffs/tweet-detection-manual-byuig/dataset/1
+  version: 1
+  workspace: personal-stuffs
+test: /content/Tweet-Detection-Manual--1/test/images
+train: /content/Tweet-Detection-Manual--1/train/images
+val: /content/Tweet-Detection-Manual--1/valid/images
